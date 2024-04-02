@@ -61,7 +61,7 @@ root@127294f359d1:/var/www/project1# npm install --save vue-router
 http://localhost
 ```
 
-### Laravelの開発環境のDockerファイルになります.
+### Laravel開発環境のDockerファイルになります.
 毎回、ネットで探すのも面倒なので.
 
 2023/11/24時点では動作確認済み.
